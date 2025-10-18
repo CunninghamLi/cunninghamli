@@ -17,7 +17,7 @@
 
 ## 💼 Featured Projects
 
-### 🧴 [Smart Beauty Salon App](#)
+### 🧴 [Smart Beauty Salon App](https://github.com/CunninghamLi/smartbeautysalon)
 *Kotlin Jetpack Compose salon management app*  
 An Android application allowing clients to book appointments and salon owners to manage schedules.  
 - Built with **Jetpack Compose**, and **Room Database**  
@@ -26,7 +26,7 @@ An Android application allowing clients to book appointments and salon owners to
 
 ---
 
-### 🛒 [Grocery Store Microservices](#)
+### 🛒 [Grocery Store Microservices](https://github.com/CunninghamLi/grocerystorewebapp)
 *Spring Boot, Docker, and API Gateway architecture*  
 A distributed web service ecosystem simulating a grocery store backend.  
 - Developed microservices for **products, customers, payments, and orders**  
@@ -35,10 +35,10 @@ A distributed web service ecosystem simulating a grocery store backend.
 
 ---
 
-### 🛍️ [Mini E-Commerce Website](#)
+### 🛍️ [Mini E-Commerce Website](https://github.com/CunninghamLi/mini-ecommerce)
 *PHP website for product browsing and checkout*  
 A simple e-commerce platform featuring user registration, product listings, and order tracking.  
-- Created using **PHP**, **MySQL**, and **Laravel**  
+- Created using **PHP** and **Laravel**  
 - Focused on database normalization and responsive layout  
 
 ---
