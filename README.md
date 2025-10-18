@@ -8,9 +8,9 @@
 
 ## 🔧 Tech Stack
 
-**Languages & Tools:**  
+**Languages, Tools & Frameworks:**  
 `Java` • `Kotlin` • `Swift` • `Python` • `C#` • `SQL` • `JavaScript` • `TypeScript`  
-`Spring Boot` • `Docker` • `Jira`
+`Spring Boot` • `Docker` • `Jira` • `HTML` • `CSS` • `PHP` • `ASP.NET` • `React` • `Angular` • `Laravel` • `Unity` • `Azure` • `Git` • `PlantUML`
 
 ---
 
