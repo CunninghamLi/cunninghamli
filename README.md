@@ -19,7 +19,7 @@
 ### 🧴 [Smart Beauty Salon App](#)
 *Kotlin Jetpack Compose salon management app*  
 An Android application allowing clients to book appointments and salon owners to manage schedules.  
-- Built with **Jetpack Compose**, **Firebase**, and **Room Database**  
+- Built with **Jetpack Compose**, and **Room Database**  
 - Includes authentication, CRUD functionality, and modern UI design  
 - Implements MVVM architecture for scalability
 
