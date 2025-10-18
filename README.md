@@ -38,7 +38,7 @@ A distributed web service ecosystem simulating a grocery store backend.
 ### 🛍️ [Mini E-Commerce Website](#)
 *PHP website for product browsing and checkout*  
 A simple e-commerce platform featuring user registration, product listings, and order tracking.  
-- Created using **PHP**, **MySQL**, and **Bootstrap**  
+- Created using **PHP**, **MySQL**, and **Laravel**  
 - Focused on database normalization and responsive layout  
 
 ---
@@ -46,7 +46,7 @@ A simple e-commerce platform featuring user registration, product listings, and 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cunningham-li-7b3672382/)  
-📧 *Email available upon request*
+📧 *Personal email available upon request*
 
 ---
 
