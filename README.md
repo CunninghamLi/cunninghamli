@@ -19,7 +19,7 @@
 
 ### 🎰 [LuckyPlay](https://github.com/CunninghamLi/luckyplay)
 *A demo gambling-style web app built for portfolio purposes*  
-🎮 **Live Demo:** [[luckyplay.vercel.app](https://luckyplay-pi.vercel.app/)](luckyplay-pi.vercel.app)
+🎮 **Live Demo:** [[luckyplay.vercel.app](https://luckyplay-pi.vercel.app/)]
 
 Users can sign in with a demo account, play coin flip and simple mini-games using **fake credits** — showcasing authentication, state management, and UI flow.
 
