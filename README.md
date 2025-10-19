@@ -17,6 +17,18 @@
 
 ## 💼 Featured Projects
 
+### 🎰 [LuckyPlay](https://github.com/CunninghamLi/luckyplay)
+*A demo gambling-style web app built for portfolio purposes*  
+Users can sign in with a demo account, play coin flip and simple mini-games using **fake credits** — showcasing authentication, state management, and UI flow.
+
+- Built with **Next.js (App Router + TypeScript)**  
+- Uses **Prisma ORM** with **SQLite**  
+- Implements **NextAuth.js** for demo logins (credentials or GitHub)  
+- Styled using **TailwindCSS**  
+- Managed with **PNPM**
+
+---
+
 ### 🧴 [Smart Beauty Salon App](https://github.com/CunninghamLi/smartbeautysalon)
 *Kotlin Jetpack Compose salon management app*  
 An Android application allowing clients to book appointments and salon owners to manage schedules.  
@@ -32,14 +44,6 @@ A distributed web service ecosystem simulating a grocery store backend.
 - Developed microservices for **products, customers, payments, and orders**  
 - Integrated **API Gateway** for request routing and centralized access  
 - Deployed with **Docker Compose** and tested using Postman  
-
----
-
-### 🛍️ [Mini E-Commerce Website](https://github.com/CunninghamLi/mini-ecommerce)
-*PHP website for product browsing and checkout*  
-A simple e-commerce platform featuring user registration, product listings, and order tracking.  
-- Created using **PHP** and **Laravel**  
-- Focused on database normalization and responsive layout  
 
 ---
 
