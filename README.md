@@ -55,6 +55,3 @@ A distributed web service ecosystem simulating a grocery store backend.
 📧 *Personal email available upon request*
 
 ---
-
-### 💡 “Always learning, always improving — one project at a time.”
-
