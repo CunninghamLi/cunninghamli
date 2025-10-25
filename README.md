@@ -53,5 +53,3 @@ A distributed web service ecosystem simulating a grocery store backend.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cunningham-li-7b3672382/)  
 📧 *Personal email available upon request*
-
----
