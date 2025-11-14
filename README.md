@@ -34,7 +34,7 @@ Users can create an account, play coin flip and simple mini-games using **fake c
 
 ---
 
-### 🐾 [Champlain Pet Clinic](https://github.com/CunninghamLi/petclinic)
+### 🐾 [Champlain Pet Clinic](https://github.com/cgerard321/champlain_petclinic)
 *A multi-semester full-stack project focused on real industry development practices*  
 A comprehensive software engineering project built across multiple sprints following Scrum. Worked on implementing new features, fixing issues, writing tests, and maintaining a production-style application using modern full-stack tools.
 
