@@ -9,9 +9,11 @@
 ## 🔧 Tech Stack
 
 **Languages:**  
+
 `Java` • `Kotlin` • `Swift` • `Python` • `C#` • `SQL` • `JavaScript` • `TypeScript` • `PHP` •  `Bash`
 
 **Tools & Frameworks:**
+
 `Spring Boot` • `React` • `Angular` • `.NET` • `Laravel` • `Unity` • `Docker` • `Azure` • `Git` • `Jira` • `HTML` • `CSS`
 
 ---
