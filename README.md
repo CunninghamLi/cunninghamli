@@ -46,14 +46,6 @@ A comprehensive software engineering project built across multiple sprints follo
 
 ---
 
-### 🧴 [Smart Beauty Salon App](https://github.com/CunninghamLi/smartbeautysalon)
-*Kotlin Jetpack Compose salon management app*  
-An Android application allowing clients to book appointments and salon owners to manage schedules.  
-- Built with **Jetpack Compose**, and **Room Database**  
-- Includes authentication, CRUD functionality, and modern UI design  
-- Implements MVVM architecture for scalability
-
----
 
 ### 🛒 [Grocery Store Microservices](https://github.com/CunninghamLi/grocerystorewebapp)
 *Spring Boot, Docker, and API Gateway architecture*  
