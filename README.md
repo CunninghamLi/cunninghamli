@@ -1,17 +1,18 @@
 # 👋 Hi, I’m Cunningham Li  
 
 🎓 **Computer Science student** at Champlain College Saint-Lambert  
-💻 Passionate about **databases, frontend and backend development**  
+💻 Passionate about **frontend and backend development**  
 🚀 Aspiring **Full Stack Developer** with a focus on building practical, well-structured applications
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages, Tools & Frameworks:**  
-`Java` • `Kotlin` • `Swift` • `Python` • `C#` • `SQL` • `JavaScript` • `TypeScript`  
-`Spring Boot` • `Docker` • `Jira` • `HTML` • `CSS` • `PHP` • `ASP.NET` • `React` 
-`Angular` • `Laravel` • `Unity` • `Azure` • `Git`
+**Languages:**  
+`Java` • `Kotlin` • `Swift` • `Python` • `C#` • `SQL` • `JavaScript` • `TypeScript` • `PHP` •  `Bash`
+
+**Tools & Frameworks:**
+`Spring Boot` • `React` • `Angular` • `.NET` • `Laravel` • `Unity` • `Docker` • `Azure` • `Git` • `Jira` • `HTML` • `CSS`
 
 ---
 
