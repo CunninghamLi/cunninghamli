@@ -10,7 +10,7 @@
 
 **Languages:**  
 
-`Java` • `JavaScript` • `TypeScript` • `Python` • `C#` • `SQL` • `Kotlin` • `Swift` • `PHP` •  `Bash`
+`Java` • `JavaScript` • `SQL` • `TypeScript` • `Python` • `C#` • `Bash` •  `PHP`
 
 **Tools & Frameworks:**
 
