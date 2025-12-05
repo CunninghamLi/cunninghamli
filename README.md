@@ -20,6 +20,23 @@
 
 ## 💼 Featured Projects
 
+### 🧭 [PathFinderAI](https://github.com/CunninghamLi/pathfinderai)
+*An AI-assisted web app that recommends real job postings based on the skills a user enters.*
+
+✨ **Live Demo:** https://pathfinderai-sandy.vercel.app/
+
+Users enter their technical skills and instantly receive real job recommendations pulled from a live jobs API — showcasing API integration, full-stack communication, and a clean, modern UI.
+
+- Built with Spring Boot (Java 17) for a lightweight REST API
+- Skills parsed using a custom keyword extraction service
+- Fetches job listings from the Remotive Jobs API
+- Frontend built with React + Vite
+- Styled with a custom dark UI (CSS modules)
+- Deployed on Render (backend) and Vercel (frontend)
+- Uses Docker for backend deployment
+
+---
+
 ### 🎰 [LuckyPlay](https://github.com/CunninghamLi/luckyplay)
 *A gambling-style web app built for portfolio purposes*  
 🎮 **Live Demo:** https://luckyplay-pi.vercel.app/
@@ -43,16 +60,6 @@ A comprehensive software engineering project built across multiple sprints follo
 - Contributed to both **frontend modules** and **backend endpoints**  
 - Collaborated using **Jira**, daily stand-ups, sprint reviews, and code reviews  
 - Gained experience with testing, deployment practices, and multi-team collaboration
-
----
-
-
-### 🛒 [Grocery Store Microservices](https://github.com/CunninghamLi/grocerystorewebapp)
-*Spring Boot, Docker, and API Gateway architecture*  
-A distributed web service ecosystem simulating a grocery store backend.  
-- Developed microservices for **products, customers, payments, and orders**  
-- Integrated **API Gateway** for request routing and centralized access  
-- Deployed with **Docker Compose** and tested using Postman  
 
 ---
 
