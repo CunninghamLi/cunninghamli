@@ -10,11 +10,11 @@
 
 **Languages:**  
 
-`Java` • `JavaScript` • `SQL` • `TypeScript` • `Python` • `C#` • `Bash` •  `PHP`
+`Java` • `JavaScript` • `SQL` • `Python` • `C#`
 
 **Tools & Frameworks:**
 
-`Spring Boot` • `React` • `Angular` • `.NET` • `Laravel` • `Unity` • `Docker` • `Azure` • `Git` • `Jira` • `HTML` • `CSS`
+`Spring Boot` • `React` • `Angular` • `.NET` • `Docker` • `Git` • `Jira`
 
 ---
 
