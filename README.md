@@ -10,7 +10,7 @@
 
 **Languages:**  
 
-`Java` • `JavaScript` • `SQL` • `Python` • `C#`
+`Java` • `JavaScript` • `SQL` • `C#` • `Python` • `TypeScript`
 
 **Tools & Frameworks:**
 
