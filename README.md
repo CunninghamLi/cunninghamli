@@ -52,15 +52,18 @@ Users can create an account, play coin flip and simple mini-games using **fake c
 
 ---
 
-### 🐾 [Champlain Pet Clinic](https://github.com/cgerard321/champlain_petclinic)
+### 🚧 [VladTech Inc](https://github.com/VladLoghin/VladTech-Inc)
 *A multi-semester full-stack project focused on real industry development practices*  
-A comprehensive software engineering project built across multiple sprints following Scrum. Worked on implementing new features, fixing issues, writing tests, and maintaining a production-style application using modern full-stack tools.
 
-- Developed features using **Java, Spring Boot, and TypeScript**  
-- Practiced **TDD**, **CI**, branching strategies, and structured Git workflows  
-- Contributed to both **frontend modules** and **backend endpoints**  
-- Collaborated using **Jira**, daily stand-ups, sprint reviews, and code reviews  
-- Gained experience with testing, deployment practices, and multi-team collaboration
+🔨 **Live Demo:** https://vladtech-inc-fudvj.ondigitalocean.app/
+
+Contributed to real-world production systems in a fast-paced startup environment. Worked across the stack to ship features, improve reliability, and support internal tooling used by multiple teams.
+
+- Built and maintained features using **Java, Spring Boot, and React/TypeScript**  
+- Implemented and tested **REST APIs** and integrated frontend components
+- Wrote unit and integration tests to improve **code quality** and **reliability**
+- Collaborated through **Git-based workflows**, pull requests, and code reviews
+- Participated in **sprint planning**, **stand-ups**, and **iterative delivery** with engineers and product stakeholders
 
 ---
 
