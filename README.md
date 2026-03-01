@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Cunningham Li  
 
-🎓 **Computer Science student**
-
+🎓 **Computer Science student**   
 💻 Passionate about building **full-stack, scalable applications**  
 🚀 Aspiring **Full Stack Developer** with a focus on building practical, well-structured applications
 
